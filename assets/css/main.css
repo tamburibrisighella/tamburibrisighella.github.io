@@ -1696,15 +1696,9 @@ a.icon-block span {
 #cookie-notice {
 	display: none;
 	text-align: center; 
-	position: absolute;
-	z-index: 2;
 	background: rgba(19, 21, 25, 0.5);
-	color: rgba(255,255,255,0.8);
-	left: 0; 
-	right: 0; 
-	margin-left: auto; 
-	margin-right: auto;} 
-
+	color: rgba(255,255,255,0.8);}
+	
 	#cookie-notice a {font-weight: 600; display: inline-flex; cursor: pointer; margin-left: 0.5rem;}
 	@media (max-width: 767px) {
 		#cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
@@ -1712,13 +1706,6 @@ a.icon-block span {
 		#cookie-notice {left: 0px;}
 	}
 
-
-	/* #cookie-notice a {font-weight: 600; position: absolute; cursor: pointer; margin-left: 0.5rem; z-index:1}
-	@media (max-width: 767px) {
-		#cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
-		#cookie-notice a {position: relative; bottom: 4px;}
-		#cookie-notice {left: 0px;}
-	} */
 /* Override */
 
 #main article {
