@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tamburi Medioevali di Brisighella</title>
-    <link>http://tamburibrisighella.github.io/categories/</link>
+    <link>https://tamburibrisighella.github.io/categories/</link>
     <description>Recent content in Categories on Tamburi Medioevali di Brisighella</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language><atom:link href="http://tamburibrisighella.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-IT</language><atom:link href="https://tamburibrisighella.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
